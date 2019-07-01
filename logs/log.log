@@ -1,0 +1,24 @@
+2019-06-19 14:20:04,432 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-19 14:20:04,892 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - ==>  Preparing: select id, username as userName, password as passWord, phone, email, created, updated from tb_user where email=? 
+2019-06-19 14:20:04,980 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - ==> Parameters: sadasd@11.com(String)
+2019-06-19 14:20:05,043 TRACE [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==    Columns: id, userName, passWord, phone, email, created, updated
+2019-06-19 14:20:05,046 TRACE [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==        Row: 38, 王五, 12131, 1231231234, sadasd@11.com, 2019-06-18 03:59:03, 2019-06-18 03:59:03
+2019-06-19 14:20:05,048 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==      Total: 1
+2019-06-19 15:07:08,695 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-19 15:07:09,332 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - ==>  Preparing: select id, username as userName, password as passWord, phone, email, created, updated from tb_user where email=? 
+2019-06-19 15:07:09,671 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - ==> Parameters: sadasd@11.com(String)
+2019-06-19 15:07:09,984 TRACE [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==    Columns: id, userName, passWord, phone, email, created, updated
+2019-06-19 15:07:09,991 TRACE [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==        Row: 38, 王五, 12131, 1231231234, sadasd@11.com, 2019-06-18 03:59:03, 2019-06-18 03:59:03
+2019-06-19 15:07:10,033 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==      Total: 1
+2019-06-19 15:07:25,084 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-19 15:07:25,686 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - ==>  Preparing: select id, username as userName, password as passWord, phone, email, created, updated from tb_user where email=? 
+2019-06-19 15:07:25,942 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - ==> Parameters: sadasd@11.com(String)
+2019-06-19 15:07:26,167 TRACE [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==    Columns: id, userName, passWord, phone, email, created, updated
+2019-06-19 15:07:26,174 TRACE [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==        Row: 38, 王五, 12131, 1231231234, sadasd@11.com, 2019-06-18 03:59:03, 2019-06-18 03:59:03
+2019-06-19 15:07:26,221 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==      Total: 1
+2019-06-19 15:07:59,324 INFO [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} inited
+2019-06-19 15:08:00,034 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - ==>  Preparing: select id, username as userName, password as passWord, phone, email, created, updated from tb_user where email=? 
+2019-06-19 15:08:00,310 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - ==> Parameters: sadasd@11.com(String)
+2019-06-19 15:08:00,503 TRACE [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==    Columns: id, userName, passWord, phone, email, created, updated
+2019-06-19 15:08:00,508 TRACE [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==        Row: 38, 王五, 12131, 1231231234, sadasd@11.com, 2019-06-18 03:59:03, 2019-06-18 03:59:03
+2019-06-19 15:08:00,555 DEBUG [com.example.mybatis.my.shop.mapper.TbuserMapper.selectByEmail] - <==      Total: 1
